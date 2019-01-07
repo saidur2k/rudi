@@ -1,0 +1,13 @@
+{
+  "name": "rudi",
+  "version": "1.0.0",
+  "description": "A simpe CLI tool to automate adhoc tasks",
+  "main": "src/rudi.js",
+  "repository": "git@github.com:saidur2k/rudi.git",
+  "author": "Saidur Rahman <srahman@atlassian.com>",
+  "license": "MIT",
+  "dependencies": {
+    "commander": "^2.19.0",
+    "simple-git": "^1.107.0"
+  }
+}
